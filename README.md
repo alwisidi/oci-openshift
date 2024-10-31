@@ -38,7 +38,7 @@ See the following for installation instructions:
 - **Application Load Balancers**:
     - API
         - serves "api" and "api-int"
-    - API Apps
+    - Apps
         - serves "*.apps"
 - **OCI Identity Resources**:
     - Dynamic groups
@@ -50,6 +50,8 @@ See the following for installation instructions:
         - *.apps
 - **Compute Configurations**:
     - Control Plane Instance Configuration
+    - Infra Instance Configuration
+    - Storage Instance Configuration
     - Compute Instance Configuration
 - **Compute Pools**:
     - Control Plane nodes
